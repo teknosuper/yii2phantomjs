@@ -1,0 +1,12 @@
+{
+    "name": "teknosuper/yii2phantomjs",
+    "description": "Phantomjs wrapper for yii2 framework",
+    "authors": [
+        {
+            "name": "Teknosuper - M Atiqurrohman",
+            "email": "teknosuper@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
